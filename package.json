@@ -1,0 +1,25 @@
+{
+  "name": "deve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuxiaodao/Deve.git"
+  },
+  "author": "Wuxiaodao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wuxiaodao/Deve/issues"
+  },
+  "homepage": "https://github.com/Wuxiaodao/Deve#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
